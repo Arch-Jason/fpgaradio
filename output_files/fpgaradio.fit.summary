@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Aug 29 10:30:11 2025
+Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+Revision Name : fpgaradio
+Top-level Entity Name : fpgaradio
+Family : Cyclone IV E
+Device : EP4CE15F23C8
+Timing Models : Final
+Total logic elements : 787 / 15,408 ( 5 % )
+    Total combinational functions : 559 / 15,408 ( 4 % )
+    Dedicated logic registers : 599 / 15,408 ( 4 % )
+Total registers : 599
+Total pins : 10 / 344 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 131,072 / 516,096 ( 25 % )
+Embedded Multiplier 9-bit elements : 0 / 112 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Aug 29 10:30:07 2025
+Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+Revision Name : fpgaradio
+Top-level Entity Name : fpgaradio
+Family : Cyclone IV E
+Total logic elements : 816
+    Total combinational functions : 557
+    Dedicated logic registers : 599
+Total registers : 599
+Total pins : 10
+Total virtual pins : 0
+Total memory bits : 131,072
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
